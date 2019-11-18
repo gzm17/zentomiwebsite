@@ -4,6 +4,7 @@
   "description": "zentomi's website",
   "main": "zentomi.js",
   "scripts": {
+    "start": "node zentomi",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
